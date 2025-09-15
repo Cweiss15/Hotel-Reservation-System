@@ -7,7 +7,7 @@ The system includes functionality for adding, finding, and canceling reservation
 - Prevents double-booking by checking for overlapping reservation dates  
 - Supports guest, employee, and room management 
 
-## OOP Skills Used
+## OOP Concepts Applied
 - **Classes & Objects**: Separate classes for Reservations, Guests, Employees, and Rooms  
 - **Inheritance & Aggregation**: Employees and Guests modeled with shared and specialized attributes  
 - **Enums**: Booking status (e.g., `CONFIRMED`, `CANCELED`)  
